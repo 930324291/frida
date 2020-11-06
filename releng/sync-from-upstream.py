@@ -23,7 +23,7 @@ upstreams = {
     "libsoup": make_gnome_url("libsoup"),
     "vala": make_gnome_url("vala"),
     "pkg-config": "https://anongit.freedesktop.org/git/pkg-config.git",
-    "duktape": "https://github.com/svaarala/duktape.git",
+    "quickjs": "https://github.com/bellard/quickjs.git",
     "gn": "https://gn.googlesource.com/gn",
     "v8": "https://chromium.googlesource.com/v8/v8",
     "v8/build": "https://chromium.googlesource.com/chromium/src/build",

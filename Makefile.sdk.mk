@@ -2,6 +2,8 @@ include config.mk
 
 MAKE_J ?= -j 8
 
+frida_sdk_version := 20201106
+
 repo_base_url = https://github.com/frida
 repo_suffix := .git
 
